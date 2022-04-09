@@ -10,7 +10,7 @@
     {
 	"name": "k8y3e/bedrock_test", 
     "description": "bedrock test", 
-    "require": {}  
+      
        "type": "vcs",
        "url": "https://github.com/k8y3e/bedrock_test"   
     }

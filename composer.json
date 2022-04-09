@@ -6,11 +6,7 @@
   
   "repositories": [
   
-    {
-    "name": "k8y3e/bedrock_test",
-    "description": "bedrock test", 
-    
-	}
+
 	
     {
        "type": "vcs",
